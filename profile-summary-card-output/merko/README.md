@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/yuita-yoshihiko/yuita-yoshihiko/main/profile-summary-card-output/merko/4-productive-time.svg)
-```
-
-    

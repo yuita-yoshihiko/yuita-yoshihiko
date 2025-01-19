@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/yuita-yoshihiko/yuita-yoshihiko/main/profile-summary-card-output/jolly/4-productive-time.svg)
-```
-
-    

@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/yuita-yoshihiko/yuita-yoshihiko/main/profile-summary-card-output/panda/4-productive-time.svg)
-```
-
-    
